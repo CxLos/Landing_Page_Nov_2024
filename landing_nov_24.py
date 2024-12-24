@@ -39,12 +39,12 @@ app.layout = html.Div(children=[
                 href='https://nav-nov-24.onrender.com/',
                 className='btn'),
                 html.A(
-                'Volunteer/ InKind',
-                href='https://github.com/CxLos/Nav_Nov_24',
+                'Partner Engagement',
+                href='https://github.com/CxLos/Partner_Engagement_Report_Nov_24',
                 className='btn'),
                 html.A(
                 'IT',
-                href='https://github.com/CxLos/Nav_Nov_24',
+                href='https://github.com/CxLos/IT_Report_Nov_24',
                 className='btn')
             ])
     ])    
