@@ -1,0 +1,1 @@
+web: gunicorn landing_nov_24:server
