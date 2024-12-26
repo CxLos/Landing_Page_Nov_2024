@@ -44,7 +44,7 @@ app.layout = html.Div(children=[
                 className='btn'),
                 html.A(
                 'IT',
-                href='https://github.com/CxLos/IT_Report_Nov_24',
+                href='https://it-report-nov-24.onrender.com',
                 className='btn')
             ])
     ])    
